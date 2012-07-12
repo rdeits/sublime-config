@@ -28,3 +28,5 @@
 	user = rdeits
 	token = 65570e6610483e333989e068c61a8f2a
 
+[core]
+	excludesfile = /Users/rdeits/.gitignore_global
